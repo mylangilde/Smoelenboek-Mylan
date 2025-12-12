@@ -142,10 +142,10 @@
 }
 
 #Profilepicture_myl {
-    margin-left: 50px;
-    margin-right: 50px;
+    align-self: center;
     border-radius: 60px;
-    width: 200px;
+    width: 70%;
+    border: solid 5px rgba(83, 83, 83, 0.6);
 }
 
 #Main_myl {  /*everything in the main content*/
