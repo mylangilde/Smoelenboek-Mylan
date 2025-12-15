@@ -212,4 +212,10 @@
         flex-direction: column;
         align-items: center;
     }
+} 
+
+@media (max-width: 400px) {
+    #Header_myl{
+        display: none;
+    }
 }
